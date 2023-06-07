@@ -5,6 +5,24 @@
       "email": "crudsilpa@gmail.com",
       "password": "abc@123",
       "id": 1
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 2
+    },
+    {
+      "name": "shilpa mulge",
+      "password": "mnbvcxz",
+      "email": "some@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "saanu",
+      "password": "plm",
+      "email": "saanu@gmail.com",
+      "id": 4
     }
   ]
 }
